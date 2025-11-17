@@ -1,6 +1,4 @@
-# Welcome to my GitHub profile repository test
-
-This repository controls the content of my GitHub profile README.
+# Welcome
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denisnasi/denisnasi/refs/heads/output/github-snake-dark.svg" />
